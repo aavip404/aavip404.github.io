@@ -6,14 +6,6 @@ Clash/SS/SSR/V2ray使用教程/机场推荐/科学上网插件
 
 本文仅提供一种科学上网方法，不能保证其稳定性和速度。我们建议您寻找更加可靠的科学上网方式，以确保长期稳定的网络访问。
 
-临时存储网盘：
-
-- [Github仓库](https://github.com/selierlin/fq/tree/tools)
-
-
----
-
-
 
 ### 目录
 
@@ -33,21 +25,6 @@ Clash/SS/SSR/V2ray使用教程/机场推荐/科学上网插件
 ### 💻上网方式
 
 #### 1. 🌰浏览器插件
-
-> 建议使用Chrome浏览器安装以下插件
-
-集装箱: [官网渠道](https://a.newday.me/?scene=one_index_index)【推荐】、[插件商店](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
-
-[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)【推荐】
-
-[Setup $$](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
-
-[Google Helper](http://googlehelper.net/)
-
-无法访问的可以打开临时存储网盘下载
-
-[插件安装方法](https://zhuanlan.zhihu.com/p/57484771)
-
 ---
 
 #### 2. 🍄SS/SSR/V2ray分享账号【推荐】
@@ -94,12 +71,3 @@ Proxy SwitchyOmega设置教程：[Chrome](Other/switchyomega-chrome.md)  |  [Fir
 [设置自定义 DNS 服务器](Other/dns.md)
 
 ---
-
-如果您有任何需求、问题或建议，欢迎提出。您也可以发送邮件至：[aselierlin@gmail.com](Mailto://aselierlin@gmail.com)
-
-如果本项目对您有所帮助，欢迎 [Star](https://github.com/selierlin/Share-SSR-V2ray)
-
-
-## Star 历史
-
-![Star History Chart](https://api.star-history.com/svg?repos=selierlin/Share-SSR-V2ray&type=Date)
